@@ -4,6 +4,12 @@
   
 
 ### <div align="center">I'm German, 👨‍💻 a full-stack developer | 👨🏽‍🎓 Codeable | 📚 Platzi Student</div>  
+
+## 🚀 About Me
+
+Experienced full-stack web developer with a 15-year track record across diverse domains. I am a self-starter person, detail-oriented, and with high adaptability skills, stakeholder management and collaboration; results oriented with solid conflict management skills. Currently looking for a new professional challenge to grow alongside a dynamic team and develop projects. I decided to transition to the tech industry convinced that technology will soon touch every aspect of human life. My willingness to learn and my effective communication skills have contributed to successful teamwork.
+
+<br/>
   
 
 - 🔭 I’m currently working to improve my skylls 😎
@@ -22,7 +28,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table width=100%><tr><td valign="top" width="33%">
 
 
 
